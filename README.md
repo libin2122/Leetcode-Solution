@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/libin2122/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/libin2122/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/libin2122/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/libin2122/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/libin2122/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/libin2122/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/libin2122/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/libin2122/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
