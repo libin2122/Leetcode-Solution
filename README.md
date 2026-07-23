@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/libin2122/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/libin2122/Leetcode-Solution/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
 | ------- |
