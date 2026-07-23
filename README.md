@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/libin2122/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/libin2122/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/libin2122/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/libin2122/Leetcode-Solution/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/libin2122/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/libin2122/Leetcode-Solution/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
