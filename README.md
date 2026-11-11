@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/libin2122/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/libin2122/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/libin2122/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/libin2122/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3693-climbing-stairs-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
