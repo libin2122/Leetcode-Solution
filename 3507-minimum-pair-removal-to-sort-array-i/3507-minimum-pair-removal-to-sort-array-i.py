@@ -7,3 +7,4 @@ class Solution:
             nums.pop(i+1)
             count +=1
         return count
+    
