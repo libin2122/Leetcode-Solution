@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/libin2122/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/libin2122/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/libin2122/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/libin2122/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/libin2122/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
