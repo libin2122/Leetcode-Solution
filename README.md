@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/libin2122/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/libin2122/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/libin2122/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/libin2122/Leetcode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/libin2122/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/libin2122/Leetcode-Solution/tree/master/0055-jump-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/libin2122/Leetcode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |
