@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/libin2122/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/libin2122/Leetcode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/libin2122/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/libin2122/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/libin2122/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/libin2122/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/libin2122/Leetcode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -194,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
