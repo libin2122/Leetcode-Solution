@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
