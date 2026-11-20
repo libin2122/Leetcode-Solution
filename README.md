@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/libin2122/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/libin2122/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/libin2122/Leetcode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/libin2122/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/libin2122/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/libin2122/Leetcode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/libin2122/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/libin2122/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/libin2122/Leetcode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
 |  |
 | ------- |
