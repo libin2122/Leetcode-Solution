@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/libin2122/Leetcode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/libin2122/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/libin2122/Leetcode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/libin2122/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/libin2122/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/libin2122/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
