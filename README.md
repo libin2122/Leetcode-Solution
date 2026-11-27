@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/libin2122/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/libin2122/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/libin2122/Leetcode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/libin2122/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/libin2122/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/libin2122/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/libin2122/Leetcode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/libin2122/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/libin2122/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
 ## Sliding Window
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/libin2122/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/libin2122/Leetcode-Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/libin2122/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/libin2122/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/libin2122/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/libin2122/Leetcode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
