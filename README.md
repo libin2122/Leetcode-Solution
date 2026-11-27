@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/libin2122/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/libin2122/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/libin2122/Leetcode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0146-lru-cache](https://github.com/libin2122/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/libin2122/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/libin2122/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/libin2122/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/libin2122/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/libin2122/Leetcode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/libin2122/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/libin2122/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/libin2122/Leetcode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/libin2122/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/libin2122/Leetcode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
