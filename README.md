@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/libin2122/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/libin2122/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/libin2122/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/libin2122/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [1447-simplified-fractions](https://github.com/libin2122/Leetcode-Solution/tree/master/1447-simplified-fractions) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/libin2122/Leetcode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
